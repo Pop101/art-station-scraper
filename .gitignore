@@ -17,3 +17,6 @@ raw_data/
 
 # ignore ipynb checkpoints
 .ipynb_checkpoints/
+
+# ignore log
+*.log
