@@ -15,3 +15,5 @@ full_data/
 images/
 raw_data/
 
+# ignore ipynb checkpoints
+.ipynb_checkpoints/
