@@ -1,4 +1,4 @@
-name: artstation
+name: artstation6
 channels:
   - conda-forge
 dependencies:
@@ -8,3 +8,6 @@ dependencies:
   - numpy
   - pandas
   - requests
+  - pip 
+  - pip:
+    - cloudscraper
